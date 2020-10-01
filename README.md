@@ -1,4 +1,5 @@
 # Amazon Ion Java
+# Implementation
 A Java implementation of the [Ion data notation](http://amzn.github.io/ion-docs).
 
 [![Build Status](https://travis-ci.org/amzn/ion-java.svg?branch=master)](https://travis-ci.org/amzn/ion-java)
